@@ -1,0 +1,13 @@
+C:\Users\roberto\Documents\linguagem C#\soma_vetor\soma_vetor\bin\Debug\netcoreapp2.1\soma_vetor.deps.json
+C:\Users\roberto\Documents\linguagem C#\soma_vetor\soma_vetor\bin\Debug\netcoreapp2.1\soma_vetor.runtimeconfig.json
+C:\Users\roberto\Documents\linguagem C#\soma_vetor\soma_vetor\bin\Debug\netcoreapp2.1\soma_vetor.runtimeconfig.dev.json
+C:\Users\roberto\Documents\linguagem C#\soma_vetor\soma_vetor\bin\Debug\netcoreapp2.1\soma_vetor.dll
+C:\Users\roberto\Documents\linguagem C#\soma_vetor\soma_vetor\bin\Debug\netcoreapp2.1\soma_vetor.pdb
+C:\Users\roberto\Documents\linguagem C#\soma_vetor\soma_vetor\obj\Debug\netcoreapp2.1\soma_vetor.csproj.AssemblyReference.cache
+C:\Users\roberto\Documents\linguagem C#\soma_vetor\soma_vetor\obj\Debug\netcoreapp2.1\soma_vetor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roberto\Documents\linguagem C#\soma_vetor\soma_vetor\obj\Debug\netcoreapp2.1\soma_vetor.AssemblyInfoInputs.cache
+C:\Users\roberto\Documents\linguagem C#\soma_vetor\soma_vetor\obj\Debug\netcoreapp2.1\soma_vetor.AssemblyInfo.cs
+C:\Users\roberto\Documents\linguagem C#\soma_vetor\soma_vetor\obj\Debug\netcoreapp2.1\soma_vetor.csproj.CoreCompileInputs.cache
+C:\Users\roberto\Documents\linguagem C#\soma_vetor\soma_vetor\obj\Debug\netcoreapp2.1\soma_vetor.dll
+C:\Users\roberto\Documents\linguagem C#\soma_vetor\soma_vetor\obj\Debug\netcoreapp2.1\soma_vetor.pdb
+C:\Users\roberto\Documents\linguagem C#\soma_vetor\soma_vetor\obj\Debug\netcoreapp2.1\soma_vetor.genruntimeconfig.cache
